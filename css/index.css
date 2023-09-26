@@ -50,6 +50,24 @@
     margin-top: 50px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+.simple{
+    margin-left: 200px;
+}
 #sect{
     margin-left: 100px;
+}
+#footer, #button{
+    background-color: purple;
+}
+.content, .subscribe{
+    margin-left: 350px;
+    padding-bottom: 30px;
+    padding-top: 50px;
+    padding-right: 100px;
+}
+.blog, .sub{
+    margin-left: 100px;
+}
+#copyright{
+    margin-left: 300px;
 }
